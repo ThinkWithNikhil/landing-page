@@ -1,7 +1,7 @@
 <script>
     import authorPic from "$assets/profile_pic.jpg"
 </script>
-<section class="author-section">
+<section class="section-size">
     <h2 class="mb-l">About the author</h2>
     <div class="author-container">
         <div class="author-text">
@@ -26,12 +26,5 @@
 
   .author-text {
     width: 55%;
-  }
-
-  .author-section {
-    padding: 80px 0;
-    margin-left: 12vw;
-    margin-right: 20vw;
-    max-width: 1150px;
   }
 </style>

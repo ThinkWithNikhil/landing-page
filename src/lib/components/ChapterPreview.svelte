@@ -42,7 +42,7 @@
     }
 </script>
 
-<section class="chapter-preview default-margin">
+<section class="section-size">
     <h2 class="mb-l">What you're getting</h2>
     <div class="chapter-container">
         <ul>
@@ -96,12 +96,5 @@
     box-shadow:
       0 4px 6px rgba(0, 0, 0, 0.1),
       0 1px 3px rgba(0, 0, 0, 0.08);
-  }
-
-  .chapter-preview {
-    margin-left: 12vw;
-    margin-right: 20vw;
-    max-width: 1150px;
-    padding: 80px;
   }
 </style>

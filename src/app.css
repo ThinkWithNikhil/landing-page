@@ -143,3 +143,10 @@ p {
 .light-grey {
   color: #aaaaaa;
 }
+
+.section-size {
+    margin-left: 12vw;
+    margin-right: 20vw;
+    max-width: 1150px;
+    padding: 80px;
+}
