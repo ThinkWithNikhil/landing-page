@@ -25,7 +25,7 @@
         }
     ];
     
-    let openIndex = -1;
+    let openIndex = $state(-1);
 
     function toggleFaq(index) {
         openIndex = openIndex === index ? -1 : index;
