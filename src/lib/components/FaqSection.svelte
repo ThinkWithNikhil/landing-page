@@ -47,7 +47,7 @@
         {/each}
     </div>
     <div class="additional-info">
-        <Button class="mt-s" buttonText="BUY NOW"/>
+        <Button class="mt-s">BUY NOW</Button>
         <p class="mt-m">Any other questions?</p>
         <a href="http://x.com/thinkwithnikhil">
             <p>

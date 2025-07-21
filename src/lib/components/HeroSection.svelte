@@ -27,7 +27,7 @@
                 calculating my cost of living, choosing an apartment. That's why I wrote
                 this e-book, to tell you how I did it. No bullshit, no stress.
             </p>
-            <Button buttonText="PURCHASE E-BOOK FOR $10"/>
+            <Button>PURCHASE E-BOOK FOR $10</Button>
         {/if}
     </div>
 </section>
