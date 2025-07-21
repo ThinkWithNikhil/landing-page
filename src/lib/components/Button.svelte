@@ -3,7 +3,7 @@
     import { PUBLIC_STRIPE_KEY } from "$env/static/public";
 	import { goto } from "$app/navigation";
 
-    let { buttonText, ...props } = $props();
+    let { children, ...props } = $props();
 
     async function onclick() {
         try {
@@ -25,7 +25,7 @@
     }
 </script>
 
-<button {...props} {onclick}>{buttonText}</button>
+<button {...props} {onclick}>{@render children()}</button>
 
 <style>
     button {
